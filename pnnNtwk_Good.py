@@ -1,7 +1,7 @@
 #
 # Back propagation neural network (BPNN)
 # 
-# 
+
 import numarray
 import math
 import random
